@@ -105,8 +105,7 @@ Rollout of **Dispensar**, the system that manages medication stock and dispensin
 
 ### 📊 GitHub activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GinaEusebi9&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinaEusebi9&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=GinaEusebi9&theme=transparent&hide_border=true&ring=00A3AD&fire=00A3AD&currStreakLabel=00A3AD&sideLabels=0A66C2" alt="GitHub streak stats"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00A3AD&height=100&section=footer" alt=""/>
